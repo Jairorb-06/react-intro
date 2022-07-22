@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jairorb-06/react-intro/static/css/main.7149a205.css",
+    "main.js": "/Jairorb-06/react-intro/static/js/main.148d90c8.js",
+    "index.html": "/Jairorb-06/react-intro/index.html",
+    "main.7149a205.css.map": "/Jairorb-06/react-intro/static/css/main.7149a205.css.map",
+    "main.148d90c8.js.map": "/Jairorb-06/react-intro/static/js/main.148d90c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7149a205.css",
+    "static/js/main.148d90c8.js"
+  ]
+}
